@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dhruv, an ameture fullstack developer and ECE student at the University of Waterloo. I like playing around with new technologies and making fun projects that solve some of the most ambitious solutions that wander in my head. 
+My name is Dhruv, an amateure fullstack developer and ECE student at the University of Waterloo. I like playing around with new technologies and making fun projects that solve some of the most ambitious solutions that wander in my head. 
 
 
 #### 🔭    I’m currently working on two different projects:
