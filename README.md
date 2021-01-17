@@ -4,7 +4,7 @@ My name is Dhruv, an amateur fullstack developer and ECE student at the Universi
 
 
 #### 🔭    I’m currently working on two different projects:
-- Mediconnect 👨‍⚕️ is a MEAN stack web application that promotes organization and efficiency when connecting physicians with their patients. My goal for this project is to work on UI design and working with more complex state and API. 
+- Mediconnect 👨‍⚕️ is a MEAN stack web application that promotes organization and efficiency when connecting physicians with their patients. My goal for this project is to work on UI design, complex state, and a more sophisticated API. 
 - ML DOOM is a Python project that scrapes lyrics from the 🐐 MF DOOM, feeds it into a Tensorflow model, then outputs similar lyrics onto a Flask web application. 
 
 #### 🌱    I’m currently learning
