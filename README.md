@@ -7,13 +7,13 @@ My name is Dhruv, an ameture fullstack developer and ECE student at the Universi
 - Mediconnect 👨‍⚕️ is a MEAN stack web application that promotes organization and efficiency when connecting physicians with their patients. My goal for this project is to work on UI design and working with more complex state and API. 
 - ML DOOM is a Python project that scrapes lyrics from the 🐐 MF DOOM, feeds it into a Tensorflow model, then outputs similar lyrics onto a Flask web application. 
 
-#### 🌱 I’m currently learning
+#### 🌱  I’m currently learning
 - Angular
 - Machine learning
 - Working with containers through Docker
 - Other web development frameworks and libraries
 
-#### 📫 How to reach me:
+#### 📫  How to reach me:
 Email: <d3vora@uwaterloo.ca>
 Linkedin: <http://linkedin.com/in/d3vora> 
 
