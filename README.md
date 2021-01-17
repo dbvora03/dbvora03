@@ -14,8 +14,8 @@ My name is Dhruv, an ameture fullstack developer and ECE student at the Universi
 - Other web development frameworks and libraries
 
 #### 📫    How to reach me:
-Email: <d3vora@uwaterloo.ca>
-Linkedin: <http://linkedin.com/in/d3vora> 
+- Email: <d3vora@uwaterloo.ca>
+- Linkedin: <http://linkedin.com/in/d3vora> 
 
 
 <!--
