@@ -14,7 +14,7 @@ My name is Dhruv, an amateur fullstack developer and ECE student at the Universi
 - Angular
 - Machine learning
 - Other web development frameworks and libraries such as ASP .NET
-
+-->
 #### 📫    How to reach me:
 - Email: <d3vora@uwaterloo.ca>
 - Linkedin: <http://linkedin.com/in/d3vora> 
