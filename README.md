@@ -15,9 +15,11 @@ My name is Dhruv, an amateur fullstack developer and ECE student at the Universi
 - Machine learning
 - Other web development frameworks and libraries such as ASP .NET
 -->
+<!--
 #### 📫    How to reach me:
 - Email: <d3vora@uwaterloo.ca>
 - Linkedin: <http://linkedin.com/in/d3vora> 
+-->
 
 <!--
 **dbvora03/dbvora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
