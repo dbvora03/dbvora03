@@ -2,7 +2,6 @@
 
 My name is Dhruv, here are some of my projects. 
 
-![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=dbvora03&hide_title=true&card_width=500)
 <!--
 My name is Dhruv, an amateur fullstack developer and ECE student at the University of Waterloo. I like playing around with new technologies and making fun projects that solve some of the most ambitious problems that wander in my head. 
 
